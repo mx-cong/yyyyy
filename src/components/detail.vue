@@ -725,7 +725,7 @@ export default {
       options1: [
         {
           name: "高级优惠劵",
-          icon: "images/youhui.jpeg",
+          icon: "images/youhui1.jpeg",
         },
         {
           name: "中级优惠劵",
