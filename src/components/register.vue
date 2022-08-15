@@ -12,11 +12,11 @@
     <div class="inp">
       <form action="">
         <p>
-          <span><img src="images/account.png.png" alt="" id="phone" /></span
+          <span><img src="images/account.png" alt="" id="phone" /></span
           ><input type="text" placeholder="请输入您的手机号码" />
         </p>
         <p>
-          <span><img src="images/xianyan.png" alt="" /></span
+          <span><img src="images/xiaoyan.png" alt="" /></span
           ><input type="text" placeholder="请输入校验码" /><button
             v-on:click="check()"
           >

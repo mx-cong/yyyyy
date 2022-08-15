@@ -829,11 +829,6 @@ export default {
         }
       });
     });
-
-    //购物车
-    $("#shopcar").click(function () {
-      $(location).prop('href', '/#/shopcar')
-    });
   },
 };
 </script>

@@ -11,11 +11,11 @@
       <form action="">
         <ul class="inpbox">
           <li>
-            <span><img src="images/账户.png" alt="" /></span
+            <span><img src="images/account.png" alt="" /></span
             ><input type="text" placeholder="手机号/用户名/邮箱" />
           </li>
           <li>
-            <span><img src="images/密码.png" alt="" /></span
+            <span><img src="images/password.png" alt="" /></span
             ><input type="text" placeholder="密码/账号卫士APP动态码" />
           </li>
           <li><input type="submit" value="登录" /></li>
